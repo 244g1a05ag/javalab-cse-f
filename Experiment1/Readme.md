@@ -1,6 +1,6 @@
 ## Experiment1
 # TITLE 1a) display the primitive datatypes
-...
+```java
 public class Default {
  int i;
  float f;
@@ -23,6 +23,6 @@ public class Default {
   System.out.println("Default short value:" +obj.s);
  }
 }
-...
+```
 # output
 ![output of primitive datatypes](exp1a.PNG)
