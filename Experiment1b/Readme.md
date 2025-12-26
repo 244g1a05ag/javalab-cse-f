@@ -47,4 +47,4 @@ public class QuadraticRoots {
 }
 ```
 # output
-![output_quadratic_roots](exp1b.PNG)
+![output_quadratic_roots](exp1b.png)
