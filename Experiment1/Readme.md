@@ -25,4 +25,4 @@ public class Default {
 }
 ```
 # output
-![output of primitive datatypes](exp1a.PNG)
+![output of primitive datatypes](exp1a.png)
