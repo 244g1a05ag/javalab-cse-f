@@ -31,7 +31,7 @@ class Main {
 ```
 
 # OUTPUT
-![output_of_classmechanism](exp2a.PNG)
+![output_of_classmechanism](exp2a.png)
 
 ## TITLE 2b) Overloading(Addition of numbers)
 ```
@@ -66,7 +66,7 @@ class Main
 ```
 
 # OUTPUT
-![output_of_addition](exp2b.PNG)
+![output_of_addition](exp2b.png)
 
 ## TITLE : 2c) Student information
 ```
@@ -101,5 +101,5 @@ class Main
 ```
 
 # OUTPUT
-![output_of_studentinfo](exp2c.PNG)
+![output_of_studentinfo](exp2c.png)
 
