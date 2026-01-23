@@ -173,4 +173,7 @@ import java.util.Scanner;
 ```
 
 ## OUTPUT 
-[3c_output](exp3c.jpg)
+![exp3c](https://github.com/user-attachments/assets/67ee7331-3150-468a-98a6-9e208fbdcf0b)
+
+
+
