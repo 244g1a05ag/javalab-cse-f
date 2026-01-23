@@ -43,7 +43,9 @@ class Main {
 ```
 
 # OUTPUT
-![3a_output](exp3a.JPG)
+![exp3a](https://github.com/user-attachments/assets/270d6224-04c6-4392-8c0b-d80ed5b7fafb)
+
+
 
 ### TITLE 3b.) Binary search
 ```
